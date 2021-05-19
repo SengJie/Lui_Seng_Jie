@@ -12,7 +12,7 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://raw.githubusercontent.com/SengJie/Lui_Seng_Jie/main/images/Capture.PNG)
+![alt text](https://raw.githubusercontent.com/SengJie/Lui_Seng_Jie/main/images/Resume%20pic.jpg)
 
 <!-- Add your details -->
 
