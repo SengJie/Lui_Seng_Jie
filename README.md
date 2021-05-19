@@ -2,9 +2,9 @@
 ### CONTACT
 
 <!-- Add your details -->
-✉️: email_id@xxxxx.com 
-&nbsp;&nbsp; 📲 +91-XXXXXXXXXX
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/
+✉️: lui.seng.jie@gmail.com
+&nbsp;&nbsp; 📲 +65-93272176
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/seng-jie-lui
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Website]
 <!-- CONTACT Section Ends -->
 
