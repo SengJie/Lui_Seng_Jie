@@ -5,7 +5,7 @@
 ✉️: lui.seng.jie@gmail.com
 &nbsp;&nbsp; 📲 +65-93272176
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/seng-jie-lui
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Website]
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!--[Website]
 <!-- CONTACT Section Ends -->
 
 <!-- ABOUT Section Starts -->
